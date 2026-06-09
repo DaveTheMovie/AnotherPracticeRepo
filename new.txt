@@ -1,1 +1,3 @@
 This is my new document and hopefully it is automatically saved at that directory.
+
+I am adding thoughts in the cloud.
